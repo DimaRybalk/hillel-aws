@@ -1,0 +1,21 @@
+﻿# Virtual Environment
+.venv/
+venv/
+env/
+
+# CDK & CloudFormation
+cdk.out/
+.cdk.staging/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.class
+.pytest_cache/
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
